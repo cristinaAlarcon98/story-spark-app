@@ -23,21 +23,21 @@ git clone https://github.com/cristinaAlarcon98/story-spark-app.git story-spark
 cd story-spark
 
 
-1️⃣Install Dependencies
+## 🛠 Install Dependencies
 cd frontend
 npm install
 cd ../backend
 npm install
 
-2️⃣ Set Up Environment Variables
+## 🛠 Set Up Environment Variables
 Create a .env file in both frontend/ and backend/:
 
-Frontend .env
+Frontend .env-->
 REACT_APP_API_URL=https://story-spark-backend.onrender.com || https://localhost:9090
 Backend .env
 OPENAI_API_KEY=your-api-key
 
-3️⃣ Run the Project
+## 🛠 Run the Project
 Run the backend:
 cd backend
 npm run start
