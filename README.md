@@ -32,9 +32,9 @@ npm install
 ## 🛠 Set Up Environment Variables
 Create a .env file in both frontend/ and backend/:
 
-Frontend .env-->
-REACT_APP_API_URL=https://story-spark-backend.onrender.com || https://localhost:9090
-Backend .env
+Frontend .env <br/>
+REACT_APP_API_URL=https://story-spark-backend.onrender.com || https://localhost:9090 <br/>
+Backend .env <br/>
 OPENAI_API_KEY=your-api-key
 
 ## 🛠 Run the Project
