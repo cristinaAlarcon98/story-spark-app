@@ -19,7 +19,7 @@
 
 ### 📥 1. Clone the Repository
 
-git clone https://github.com/cristinaAlarcon98/story-spark-app.git story-spark
+git clone --recurse-submodules https://github.com/cristinaAlarcon98/story-spark-app.git story-spark
 cd story-spark
 
 
